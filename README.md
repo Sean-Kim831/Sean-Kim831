@@ -16,7 +16,7 @@
 ---
 
 ### 🔥 사용기술
-- 개발언어 : HTML5, CSS3, JavaScript, Java, C#, C, ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
+- 개발언어 : HTML5, CSS3, JavaScript, Java, C#, C
 
 - Tool&IDEs : Visual Studio Code, Android Studio, Eclipse, Unity, Figma
 - 버전관리 : Git(Hub)
