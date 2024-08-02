@@ -22,7 +22,8 @@
 - 개발언어 : HTML5, CSS3, JavaScript, Java, C#, C
 - Tool&IDEs : Visual Studio Code, Android Studio, Eclipse, Unity, Figma
 - 버전관리 : Git(Hub)
-- 1. 웹페이지 구조 설계 및 스타일링:
+
+- 웹페이지 구조 설계 및 스타일링:
  
  HTML, CSS, JavaScript를 통해 웹페이지의 구조와 스타일을 설계하고,
  동적 및 반응형 웹 설계를 구현할 수 있습니다.
