@@ -19,24 +19,32 @@
 
 ---
 
-## 🔥 Pinned Repositories
+### 🔥 사용기술
+- 개발언어 : HTML5, CSS3, JavaScript, Java, C#, C
+- Tool&IDEs : Visual Studio Code, Android Studio, Eclipse, Unity, Figma
+- 버전관리 : Git(Hub)
+- 1. 웹페이지 구조 설계 및 스타일링:
+ 
+ HTML, CSS, JavaScript를 통해 웹페이지의 구조와 스타일을 설계하고,
+ 동적 및 반응형 웹 설계를 구현할 수 있습니다.
+ 
+- 2. 웹페이지 구조 설계 및 스타일링:
+ 
+ 다양한 라이브러리(예: Three.js, TWEEN.js 등)를 활용하여 사용자와 상호작용하는
+ 웹 애플리케이션을 개발한 경험이 있습니다.
 
-### 2024_Graphics_Project
-Using Three.js for 3D WebGame contents as business model
+ - 3. 콘텐츠 제작, 개발 능력:
+  
+ Unity와 C#을 사용하여 1인칭 FPS 게임과 3D 퍼즐 인디게임을 개발하였으며,
+ 콘텐츠의 기획부터 구현(빌드,배포)을 할 수 있습니다.
+ 
+ - 4. UX/UI 디자인 및 프로토타입 제작:
 
-### 2024_Interation_Web_Project
-Using Three.js for Interaction Web as promotion model (Ref. FinalWeb_2024)
+ Figma를 활용하여 인디밴드 공연 앱의 프로토타입을 제작하였으며,
+ 개발 프로세스에 맞게 사용자 경험을 고려한 서비스를 기획, 구현할 수 있습니다.
+ 
+ - 5. 새로운 기술에 대한 학습력, 적응력:
 
-### 2023_CapstoneDesign
-2023_소프트웨어캡스톤디자인
-
-### ovthemoon/MirrorDimension
-한림 2023-2학기 캡스톤프로젝트
-
-### 2020_Delivery-Medicine
-Using cryptocurrency wallet APIs, our pharmaceutical delivery web service provides secure and efficient transactions. (2020_OpenSourceCompetition))
-
-### 2020_ZombieSurvivalFPS
-Developing a first-person shooter (FPS) zombie survival game.
-
+ “의약품 배달 웹서비스” 프로젝트에서 암호화폐 지갑 프레임워크인 MetaMask와
+ 개발언어 Solidity의 핵심 로직을 빠르게 습득하고 적용시켰습니다.
 <!-- Add more sections as needed -->
